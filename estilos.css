@@ -1,0 +1,29 @@
+body {
+    background-color: lightgrey;
+     background-image: url("https://blog.linio.com.mx/wp-content/uploads/2019/04/ropa-primavera-725x375.jpg");
+  
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+  
+
+
+  h2.nosotros{
+     
+    font-family: "Times New Roman", Times, serif;
+    background-color: blue;
+    color: blue;
+
+
+    
+  }
+  p.tienda {
+    font-family: "Times New Roman", Times, serif;
+    background-color: black;
+    color: white;
+  }
+ 
+  
